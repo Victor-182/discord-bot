@@ -1,0 +1,7 @@
+Algumas ideias:
+
+-separar players do mestre
+-restricoes de comandos
+-criar fichas
+-rodar dado
+-checar inventario de cada player
